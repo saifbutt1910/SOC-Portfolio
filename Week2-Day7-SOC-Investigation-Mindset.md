@@ -29,3 +29,7 @@ What I Learned Today
 - Every alert requires investigation.
 - Context is important before deciding whether activity is malicious.
 - Evidence-based analysis is a core SOC skill.
+- SOC analysts should avoid making assumptions without evidence.
+- Every alert should be investigated using facts and context.
+- Logs, Event IDs and Sysmon can be used together to understand an incident.
+- Evidence should be collected before containment actions such as blocking an IP or disabling an account.
