@@ -27,3 +27,7 @@ What I Learned Today
 - Threat detection helps identify attacks early.
 - IOCs are pieces of evidence left by attackers.
 - IOAs describe suspicious behaviors that require investigation.
+- Multiple suspicious events together provide stronger evidence than a single event.
+- IOAs describe suspicious behavior while IOCs are evidence of compromise.
+- SOC analysts correlate logs and events to build an attack timeline.
+- Investigations should be based on evidence and context, not assumptions.
