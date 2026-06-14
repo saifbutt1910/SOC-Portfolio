@@ -32,3 +32,8 @@ What I Learned Today
 - Tactics describe attacker goals.
 - Techniques describe how attackers achieve those goals.
 - MITRE ATT&CK helps analysts investigate incidents more effectively.
+- MITRE ATT&CK helps analysts understand attacker behavior.
+- Building a timeline makes investigations easier.
+- Multiple correlated events increase confidence that malicious activity is occurring.
+- Analysts should verify evidence before confirming an attack.
+- Data compression can be a sign of possible data exfiltration.
