@@ -23,3 +23,11 @@ What I Learned Today
 - Cyber attacks happen in multiple stages.
 - Detecting attacks early reduces damage.
 - SOC analysts use the Kill Chain to understand attacker progress.
+- 
+Additional Notes
+
+- Building an attack timeline helps understand how an incident progressed.
+- Evidence should be collected before confirming an attack.
+- Isolating an infected system helps contain the threat while preserving evidence.
+- Email logs, network logs, USB activity, Event Viewer and Sysmon are valuable sources during investigations.
+- Defense in Depth uses multiple security controls to reduce the chance of a successful attack.
